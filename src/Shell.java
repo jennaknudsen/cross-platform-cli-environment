@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 
 /**
  * The class that holds the entire program.
- * @author Jonas Knudsen
+ * @author Jenna Knudsen
  */
 public class Shell {
     /**

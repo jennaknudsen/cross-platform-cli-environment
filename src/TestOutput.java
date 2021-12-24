@@ -1,6 +1,6 @@
 /**
  * Test class that I made that writes a single line to STDOUT.
- * @author Jonas Knudsen
+ * @author Jenna Knudsen
  */
 public class TestOutput {
 

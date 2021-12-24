@@ -5,7 +5,7 @@ import java.util.Scanner;
  * then echoes that back to the user. When piped with
  * another program, it will instead read in the first
  * line of that program's output.
- * @author Jonas Knudsen
+ * @author Jenna Knudsen
  */
 public class TestInput {
 
